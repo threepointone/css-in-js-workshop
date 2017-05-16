@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "css, in your js, in your head, in your heart ",
   "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "author": "Sunil Pai <threepointone@gmail.com>",
   "license": "MIT",
   "dependencies": {
