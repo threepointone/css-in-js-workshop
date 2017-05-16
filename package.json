@@ -1,0 +1,30 @@
+{
+  "name": "css-workshop",
+  "version": "1.0.0",
+  "description": "css, in your js, in your head, in your heart ",
+  "main": "index.js",
+  "author": "Sunil Pai <threepointone@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.1",
+    "cxs": "^3.0.4",
+    "express": "^4.15.2",
+    "glam": "^4.0.3",
+    "glamor": "^2.20.25",
+    "glamorous": "^3.14.0",
+    "jsxstyle": "^1.0.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "style-loader": "^0.17.0",
+    "styled-components": "^1.4.6",
+    "styled-jsx": "^0.5.7",
+    "stylis": "^2.0.11",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
